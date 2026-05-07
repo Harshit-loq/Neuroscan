@@ -5,3 +5,4 @@ scipy
 PyWavelets
 scikit-learn
 matplotlib
+joblib
